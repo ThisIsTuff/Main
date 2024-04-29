@@ -6,7 +6,7 @@ local StuffYeah = {
     [14433762945] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/AnimeChampions.lua', -- ANIME CHAMPIONS (game died)
     [12886143095] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/AnimeLastStand.lua', -- ANIME LAST STAND
     [12900046592] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/AnimeLastStand.lua', -- ANIME LAST STAND ( INGAME)
-    [15050509770] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/SysphusSimulator.lua' -- sus (sisyphus) simulator
+    [15050509770] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/SysphusSimulator.lua', -- sus (sisyphus) simulator
     [15444929588] = 'https://raw.githubusercontent.com/ThisIsTuff/ArmWrestleSim/main/SkibidiTowerDefense.lua' -- skibi tower defense (why did i make this?)
 }
 loadstring(game:HttpGet(StuffYeah[game.PlaceId]))()
